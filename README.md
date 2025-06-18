@@ -1,4 +1,4 @@
-# Kramit
+# Kramit VCS
 
 **Kramit** is a lightweight, Git-inspired version control system built using modern JavaScript (Node.js). Designed to replicate the core functionalities of Git, it provides a simplified and educational look into how version control systems manage file history, commits, and diffs.
 
