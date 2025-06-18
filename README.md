@@ -125,8 +125,11 @@ Kramit is a simplified Git-like engine that mimics:
 - diff for computing changes
 - chalk for colored CLI output
 - Commander for CLI command parsing
+
 # Limitations (to be added soon)
 
-No support for branches, remote repositories, or merges
-Does not track file deletions or renames
-Commits are linear (no DAG)
+- No support for branches, remote repositories, or merges
+- Does not track file deletions or renames
+- Commits are linear (no DAG)
+
+  ### Contributions are always welcomed, fork the repo to get started.
