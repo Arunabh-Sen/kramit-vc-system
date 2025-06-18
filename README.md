@@ -119,13 +119,12 @@ Kramit is a simplified Git-like engine that mimics:
 
 # Tech Stack
 
-Node.js (ES Modules)
-Filesystem API for object storage
-Crypto (SHA-1) for hashing
-diff for computing changes
-chalk for colored CLI output
-Commander for CLI command parsing
-
+- Node.js (ES Modules)
+- Filesystem API for object storage
+- Crypto (SHA-1) for hashing
+- diff for computing changes
+- chalk for colored CLI output
+- Commander for CLI command parsing
 # Limitations (to be added soon)
 
 No support for branches, remote repositories, or merges
